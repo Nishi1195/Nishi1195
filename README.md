@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8AFA6&height=220&width=1000&section=header&text=Nishi%20Patel&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8AFA6&height=220&width=1000&section=header&text=Nishi%20Patel&fontSize=45&fontColor=000000&animation=fadeIn" />
 </h1>
 
 <h3 align="center" style="color:#CDB4DB;">B.Tech CSE Student | Web Developer | ML Explorer</h3>
