@@ -33,18 +33,6 @@ const nishi = {
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🧑‍💼 **[ApplySmart](https://github.com/Nishi1195/ApplySmart)** | AI-powered job platform with dual dashboards and an NLP resume–JD ranking engine | React, FastAPI, Supabase, Sentence Transformers, spaCy, Gemini |
-| 🖼️ **[FaceVault](#)** | Full-stack face recognition photo gallery with fast similarity search | React, FastAPI, InsightFace, FAISS, PostgreSQL, Docker |
-| 📄 **[DocMind](#)** | RAG-powered chatbot for real-time Q&A over documents | React, TypeScript, FastAPI, ChromaDB, Groq, Celery |
-
-*(Update the `#` links above once FaceVault and DocMind repos are public.)*
-
----
-
 ## 🎀 Tech Stack
 
 <p align="center"> 
